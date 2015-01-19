@@ -1,0 +1,152 @@
+body {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#small {
+	font-size: 4;
+	font-family: Verdana;
+	float: right;
+	margin-top: 0px;
+	margin-left: 5px;
+	color: #BEBEBE;
+}
+
+section {
+	display: inline-block;
+}
+
+h1 {
+	font-family: Yellowtail;
+	font-size: 30px;
+	margin-bottom: 1px;
+	margin-top: -5px;
+}
+
+h2 {
+	font-family: Verdana;
+	font-size: 30px;
+	margin-bottom: 0px;
+}
+
+h3 {
+	font-variant: Verdana;
+	font-size: 14px;
+	color: #BEBEBE;
+}
+
+#sub {
+	font-family: Arial;
+	font-size: 10px;
+	margin-top: -3px;
+}
+
+#title {
+	float:right;
+	margin-top: 0px;
+	margin-left: 5px;
+	margin-right: 500px;
+}
+
+#right {
+	float:right;
+	margin-top: 10px;
+	margin-right: 0px;
+}
+
+#six {
+	margin-right: 10px;
+}
+
+#topbar {
+	width: 960px;
+	margin-top: 10px;
+}
+
+#choc {
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+#print {
+	float:right;
+	margin-right: 0px;
+	margin-top: 75px;
+	font-size: 10px;
+}
+
+#chocPizza {
+	margin-top: 30px;
+	width: 960px;
+}
+
+#pic {
+	margin-top: 20px;
+	width: 960px;
+}
+
+#pie {
+	width: 960px;
+}
+
+#vanessa {
+	
+	font-family: Arial;
+	font-size: 24;
+	margin-left: 12px;
+	margin-top: 0px;
+}
+
+#footerpic {
+	margin-right: 0px;
+}
+
+#bio {
+	
+	margin-top: 15px;
+	margin-left: 12px;
+	font-family: Arial;
+	font-size: 14px;
+	width: 500px;
+}
+
+#footer {
+	margin-top: 15px;
+	width: 960px;
+}
+
+#foottext {
+}
+
+#share {
+	float: right;
+	margin-left: 130px;
+	margin-top: 5px;
+}
+
+#sharebutton {
+	width: 184px;
+	height: 55px;
+}
+
+#listpic {
+	width: 960px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#p1 {
+	font-family: Arial;
+	font-size: 18px;
+	margin-top: 30px;
+}
+
+#logobottom {
+	width: 960;
+	margin-top: 30px;
+}
+
+#smlogo {
+	margin-left: 470px;
+}
